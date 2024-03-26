@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pavla Sayenko
-- 👀 I’m interested in FullStack development
-- 🌱 I’m currently java full stuck developer
-- 💞️ I’m looking to collaborate on : back end / front end / FullStack development
+- 👀 I’m interested in   full stack development
+- 🌱 I’m currently java  full stuck developer
+- 💞️ I’m looking to collaborate on : back end / front end / full stack development
 - 📫 How to reach me - whatsapp - 0526187817
 
 <!---
